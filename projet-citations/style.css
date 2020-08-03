@@ -1,0 +1,52 @@
+button{
+    cursor: pointer;
+    background-color: palevioletred;
+    width: 30%;
+}
+#title{
+    font-size: xx-large;
+    color: greenyellow;
+    font-weight: bolder;
+}
+#autor{
+    font-size: xx-large;
+    color: darkorange;
+    font-weight: bolder;
+}
+#citation p{
+	font-size: 25px;
+    font-family: 'Marck Script', cursive;
+    padding-top: 20px;
+    font-size: xx-large;
+}
+#traisGris{
+	height: 7px;
+    width: 50%;
+    background: linear-gradient(to left,red, green, blue, yellow);
+    margin-left: 25%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#btnCitation{
+    background: linear-gradient(to left, #FF33E0, #FF3383  );
+    width: 40%;
+    text-align: center;
+    height: 55px;
+    font-size: 20px;
+}
+.citations{
+    margin-left: 25%;
+    margin-top: 10%;
+    height: 50%;
+    text-align: center;
+    background-color: blue;
+    color: black;
+    width: 50%;
+    border-radius: 10px;
+    
+    
+}
+body{
+    background-color: black;
+
+}
